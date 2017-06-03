@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/trim/CODE/ROBO/part_2/ros_essentials/devel -DCMAKE_INSTALL_PREFIX=/home/trim/CODE/ROBO/part_2/ros_essentials/install -G Unix Makefiles
