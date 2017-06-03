@@ -1,0 +1,8 @@
+prefix=/home/trim/CODE/ROBO/part_2/ros_essentials/devel
+
+Name: simple_arm
+Description: Description of simple_arm
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/trim/CODE/ROBO/part_2/ros_essentials/devel/lib 
+Requires: 
