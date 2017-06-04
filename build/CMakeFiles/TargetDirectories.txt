@@ -19,14 +19,6 @@
 /home/trim/CODE/ROBO/part_2/ros_essentials/build/gtest/CMakeFiles/gtest_main.dir
 /home/trim/CODE/ROBO/part_2/ros_essentials/build/gtest/CMakeFiles/install/strip.dir
 /home/trim/CODE/ROBO/part_2/ros_essentials/build/gtest/CMakeFiles/install/local.dir
-/home/trim/CODE/ROBO/part_2/ros_essentials/build/first_package/CMakeFiles/rebuild_cache.dir
-/home/trim/CODE/ROBO/part_2/ros_essentials/build/first_package/CMakeFiles/edit_cache.dir
-/home/trim/CODE/ROBO/part_2/ros_essentials/build/first_package/CMakeFiles/list_install_components.dir
-/home/trim/CODE/ROBO/part_2/ros_essentials/build/first_package/CMakeFiles/install.dir
-/home/trim/CODE/ROBO/part_2/ros_essentials/build/first_package/CMakeFiles/_catkin_empty_exported_target.dir
-/home/trim/CODE/ROBO/part_2/ros_essentials/build/first_package/CMakeFiles/install/local.dir
-/home/trim/CODE/ROBO/part_2/ros_essentials/build/first_package/CMakeFiles/install/strip.dir
-/home/trim/CODE/ROBO/part_2/ros_essentials/build/first_package/CMakeFiles/test.dir
 /home/trim/CODE/ROBO/part_2/ros_essentials/build/simple_arm/CMakeFiles/list_install_components.dir
 /home/trim/CODE/ROBO/part_2/ros_essentials/build/simple_arm/CMakeFiles/rebuild_cache.dir
 /home/trim/CODE/ROBO/part_2/ros_essentials/build/simple_arm/CMakeFiles/edit_cache.dir
